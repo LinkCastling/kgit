@@ -1,7 +1,9 @@
 setup.py
 kgit/cli.py
+kgit/data.py
 kgit.egg-info/PKG-INFO
 kgit.egg-info/SOURCES.txt
 kgit.egg-info/dependency_links.txt
 kgit.egg-info/entry_points.txt
 kgit.egg-info/top_level.txt
+test/test.py
